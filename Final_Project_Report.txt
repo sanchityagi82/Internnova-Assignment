@@ -1,0 +1,33 @@
+SUPERSTORE SALES & PROFITABILITY ANALYSIS – FINAL PROJECT REPORT
+
+1. Project Overview
+This project applies an end-to-end analytics workflow to the Sample Superstore dataset.
+
+2. Dataset
+The dataset contains 9,994 records and 21 columns, including order information, customer details, geography, product categories, sales, quantity, discount and profit.
+
+3. Data Preparation
+The dataset was inspected for data types, missing values and duplicate records. Dates were converted to datetime format and duplicate rows were removed where required. No missing values were found in the supplied dataset after inspection.
+
+4. EDA
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Profit Margin: 12.47%
+Unique Orders: 5,009
+Unique Customers: 793
+
+5. Key Findings
+Technology is the largest sales category and also contributes the highest total profit.
+The West region has the highest sales.
+Tables are the least profitable sub-category in the dataset.
+The correlation between Discount and Profit is negative, indicating that higher discounting is associated with lower profitability in this dataset; correlation does not by itself establish causation.
+Sales and Profit have a positive relationship.
+
+6. Power BI Dashboard
+The dashboard should contain KPI cards, category/region charts, a monthly trend, top-product analysis and slicers for Year, Region, Category, Sub-Category and Segment.
+
+7. Recommendations
+Review discounting and margins for low-profit sub-categories. Examine successful category and regional strategies and assess whether they can be applied to weaker areas.
+
+8. Conclusion
+The project demonstrates data cleaning, EDA, visualization, dashboarding and business interpretation using a real-world retail dataset.
